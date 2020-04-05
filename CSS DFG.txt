@@ -1,0 +1,6 @@
+
+            <img src="games.png" alt="Games" width="90" height="40">
+            <img src="community.png" alt="Games" width="150" height="40">
+            <img src="scratch.png" alt="Games" width="110" height="40">
+            <img src="credits.png" alt="Games" width="110" height="40">
+            <img src="seek.png" alt="Games" width="70" height="40">

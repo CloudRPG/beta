@@ -1,0 +1,61 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    background:url(BG.png);
+    background-attachment: fixed;
+    background-position: center;
+}
+.header{
+    background: rgba(0, 0, 8, 0.89);
+    padding: 6px 24px;
+    text-align: left;
+    color: white;
+    margin: 0px;
+    letter-spacing: 1px;
+    font: caption;
+    font-size: 24px;
+    text-transform: uppercase;
+
+}
+.menu{
+    position: sticky;
+    top: 0px;
+    background-color:rgb(0, 0, 0);
+    margin: 0px;
+    overflow: hidden;
+}
+.menu a{
+    font: menu;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 16px 24px;
+}
+.menu a:hover{
+    background: rgba(0, 1, 46, 0.9);
+    color: white;
+}
+.txt{
+    font: menu;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+}
+.game{
+    font: menu;
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+    padding: 100px 0px;
+}
