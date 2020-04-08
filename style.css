@@ -59,3 +59,49 @@ body{
     text-align: center;
     padding: 100px 0px;
 }
+.box{
+    background: rgba(0, 0, 8, 0.89);
+    padding: 6px 24px;
+    text-align: left;
+    color: white;
+    margin: 0px;
+    letter-spacing: 1px;
+    font: caption;
+    font-size: 24px;
+    text-transform: uppercase;    
+}
+main{
+    vertical-align: auto;
+    width: 80%;
+    height: 100vs;
+    background: rgba(0, 0, 8, 0);
+    padding: 6px 24px;
+    text-align: left;
+    color: white;
+    margin: 0px;
+    letter-spacing: 1px;
+    font: caption;
+    font-size: 24px;
+    text-transform: uppercase;    
+}
+.btn{
+    width: 200px;
+    height: 60px;
+    line-height: 50px;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    color: white;
+    background: rgba(0, 0, 8, 0.89);
+    font: caption;
+}
+.games{
+    text-align: end;
+    font: menu;
+    text-decoration: none;
+    font-size: 8px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+    padding: 100px 0px;
+}
